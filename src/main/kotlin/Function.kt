@@ -4,7 +4,7 @@
 
      val playTheGame = {
          balance -= 1_000
-         println("Playing the game Odong-Odong!")
+         println("Playing the game!!!!!!")
      }
 
      for (i in 1..9) {
